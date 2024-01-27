@@ -1,0 +1,37 @@
+h1{
+    color: #1877F2;
+    text-align: center;
+    font-size: 70px;
+}
+div{
+    width: 40%;
+    height: 70%;
+    border-style: solid;
+    border-color: gray;
+    text-align: center;
+    margin: auto;
+    border-radius: 5px;
+}
+input{
+    height: 40px;
+    width: 350px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+button{
+    height: 40px;
+    width: 350px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    background-color: #1877F2;
+    color: white;
+    border-radius: 5px;
+}
+a{
+    color: #1877F2;
+    margin-bottom: 30px;
+}
+div > p{
+    font-size: 20px;
+}
